@@ -1,4 +1,4 @@
-# powered by
+# Powered By
 ![Modern S Letter Logo](https://user-images.githubusercontent.com/65585968/192086923-a753548a-7e8b-4cb0-9eab-2d36ab042b32.png)
 
 # Unarchiver
