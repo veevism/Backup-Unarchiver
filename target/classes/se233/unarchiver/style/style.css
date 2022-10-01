@@ -1,0 +1,24 @@
+/*
+.label{
+    -fx-background-color: "black";
+}
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+Button{
+    /* -fx-padding: 3 30 3 30;
+    -fx-text-fill: black;
+    -fx-font-size: 12px; */
+}
+
+AnchorPane{
+}
+
+ListView {
+
+/* -fx-effect: dropshadow(
+    three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0); */
+
+/* -fx-background-radius: 5; */
+}
